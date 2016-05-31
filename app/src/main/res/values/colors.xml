@@ -18,4 +18,26 @@
 
     <drawable name="pressed_gray">#0c000000</drawable>
     <drawable name="selected_gray">#2c000000</drawable>
+
+    <color name="color1">#f3794d</color>
+    <color name="color2">#f3419d</color>
+    <color name="color3">#4571f3</color>
+    <color name="color4">#f3ed35</color>
+    <color name="color5">#f331eb</color>
+    <color name="color6">#3af3e6</color>
+    <color name="color7">#f37208</color>
+    <color name="color8">#30f300</color>
+    <color name="color9">#b800f3</color>
+
+    <array name="initial_colors">
+        <item>@color/color1</item>
+        <item>@color/color2</item>
+        <item>@color/color3</item>
+        <item>@color/color4</item>
+        <item>@color/color5</item>
+        <item>@color/color6</item>
+        <item>@color/color7</item>
+        <item>@color/color8</item>
+        <item>@color/color9</item>
+    </array>
 </resources>

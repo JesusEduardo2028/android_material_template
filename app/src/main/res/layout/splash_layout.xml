@@ -18,6 +18,7 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Splash View"
-        android:id="@+id/textView3" />
+        android:id="@+id/textView3"
+        />
 
 </LinearLayout>
